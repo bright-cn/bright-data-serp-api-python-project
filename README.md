@@ -17,7 +17,7 @@ pip install requests python-dotenv
 创建一个 .env 文件：  
 编辑 `.env` 并添加你的 API Key  
 `BRIGHT_DATA_API_KEY=your_api_key_here`  
-在此获取你的 API Key：https://brightdata.com/cp/setting/users
+在此获取你的 API Key：https://www.bright.cn/cp/setting/users
 
 # 3. 运行脚本
 `python index.py`
